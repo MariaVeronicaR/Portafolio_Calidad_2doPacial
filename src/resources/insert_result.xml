@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+<Alumno id="1" nombre="vero" edad="21" promedio="93.4" email="mvrm10@gmail.com"/>
+<Alumno id="2" nombre="vero" edad="21" promedio="93.4" email="mvrm10@gmail.com"/>
+<Alumno id="1" nombre="lola" edad="21" promedio="93.4" email="mvrm10@gmail.com"/>
+<Alumno id="2" nombre="lula" edad="21" promedio="93.4" email="mvrm10@gmail.com"/>
+</database>
