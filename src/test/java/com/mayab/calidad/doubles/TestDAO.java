@@ -1,12 +1,12 @@
-package com.mayab.calidad.DAO;
+package com.mayab.calidad.doubles;
 
 import static org.junit.Assert.*;
 
 import org.junit.Before;
 import org.junit.Test;
 
-import com.mayab.calidad.DAO.Alumno;
-import com.mayab.calidad.DAO.fakeDAO;
+import com.mayab.calidad.doubles.Alumno;
+import com.mayab.calidad.doubles.fakeDAO;
 
 import static org.hamcrest.Matchers.*;
 

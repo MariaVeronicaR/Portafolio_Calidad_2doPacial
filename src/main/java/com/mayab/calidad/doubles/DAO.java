@@ -1,4 +1,4 @@
-package com.mayab.calidad.DAO;
+package com.mayab.calidad.doubles;
 
 public interface DAO {
 
